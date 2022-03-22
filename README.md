@@ -2,4 +2,4 @@
 - 👀 I’m interested in front end
 - 🌱 I’m currently learning ReactJS, Gatsby, TailWindCSS...
 - 💞️ I’m looking to collaborate on building a personal blog
-- 📫 How to reach me: louistayd@gmail.com
+- 📫 How to reach me: https://github.com/LouisTay
